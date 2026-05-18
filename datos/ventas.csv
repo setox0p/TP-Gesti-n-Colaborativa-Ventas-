@@ -1,3 +1,6 @@
-id, producto, cantidad, fecha, precio
-1, Mouse, 2, 30000, 2026-05-17
-  
+id,producto,cantidad,precio,fecha
+1,Teclado,2,15000,2026-05-10
+2,Mouse,5,8000,2026-05-11
+3,Monitor,1,120000,2026-05-12
+4,Teclado,3,15000,2026-05-13
+5,Auriculares,4,12000,2026-05-14
